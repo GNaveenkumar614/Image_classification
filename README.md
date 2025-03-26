@@ -6,4 +6,4 @@ The Medical MNIST dataset is a valuable resource
  techniques and optimized deep learning models, we achieved
  high classification accuracy, demonstrating the dataset’s potential
  to improve diagnostic precision and support medical decision
-making
+making.
